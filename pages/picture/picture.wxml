@@ -1,0 +1,24 @@
+<view class="player player-{{isPlayingMusic ? 'play' : 'pause'}}" bindtap="play">
+  <image src="/images/music_icon.png" />
+  <image src="/images/music_play.png" />
+</view>
+<!-- 背景图片 -->
+<image class="bg" src="/images/招聘会图片2.jpg" />
+<!-- 内容区域 -->
+<view class="content">
+  <!-- 顶部GIF图片 -->
+
+  <!-- 标题 -->
+
+  <!-- 新郎和新娘的合照 -->
+
+  <!-- 新娘和新郎的名字 -->
+
+  <!-- 婚礼信息 -->
+  <view class="content-address">
+    <view>活动安排</view>
+    <view>我们诚邀您来参加我们的招聘会</view>
+    <view>时间：2019年1月28日</view>
+    <view>地点：北京市海淀区XX路XX酒店</view>
+  </view>
+</view>
